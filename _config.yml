@@ -3,19 +3,21 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language: en
+title: Ricky (liqimore)的个人博客
+subtitle: things to remember
+description: liqimore的个人生活博客,学习计算机科学与技术(CS),这个博客用来记录生活,与技术博客分割开来.
+keywords: ricky li, 李祺, liqimore, liqitry
+author: Ricky Li
+language:
+  - zh-cn
+  - en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://liqimore.com/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:title/
 permalink_defaults:
 
 # Directory
@@ -35,7 +37,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
