@@ -23,11 +23,11 @@ article:
 
 # Navigation bar menu links.
 menu:
-  Archives: /archives
-  Travel: /categories/travel
-  Thoughts: /categories/thoughts
-  Life: /categories/life
-  About: /about
+  Archives: /en/archives
+  Travel: /en/categories/travel
+  Thoughts: /en/categories/thoughts
+  Life: /en/categories/life
+  About: /2019/en/about/
 
 # Search plugin settings.
 search:

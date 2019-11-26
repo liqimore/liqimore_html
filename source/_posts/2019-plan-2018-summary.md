@@ -2,7 +2,7 @@
 title:    2019新的开始
 subtitle: 18总结+19规划
 date: 2019-02-06 13:20:50
-categories: Life
+categories: life
 tags: 年终总结
 ---
 
