@@ -1,3 +1,10 @@
+# Site
+title: Ricky (liqimore)的个人博客
+subtitle: things to remember
+description: liqimore的个人生活博客,学习计算机科学与技术(CS),这个博客用来记录生活,与技术博客分割开来.
+keywords: ricky li, 李祺, liqimore, liqitry
+author: Ricky Li
+
 menu:
   归档: /archives
   旅行: /categories/travel

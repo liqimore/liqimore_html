@@ -2,12 +2,7 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-# Site
-title: Ricky (liqimore)的个人博客
-subtitle: things to remember
-description: liqimore的个人生活博客,学习计算机科学与技术(CS),这个博客用来记录生活,与技术博客分割开来.
-keywords: ricky li, 李祺, liqimore, liqitry
-author: Ricky Li
+
 language:
   - zh-cn
   - en
@@ -18,7 +13,6 @@ timezone:
 url: https://liqimore.com/
 root: /
 permalink: :title/
-permalink_defaults:
 
 # Directory
 source_dir: source
@@ -31,7 +25,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :year/:title.md # File name of new posts
+new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab

@@ -1,0 +1,13 @@
+# Site
+title: Ricky (liqimore) Blog
+subtitle: things to remember
+keywords: ricky li, 李祺, liqimore, liqitry
+author: Ricky Li
+
+# Navigation bar menu links.
+menu:
+  Archives: /en/archives
+  Travel: /en/categories/travel
+  Thoughts: /en/categories/thoughts
+  Life: /en/categories/life
+  About: /en/about/

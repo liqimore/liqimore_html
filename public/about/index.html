@@ -20,18 +20,14 @@
 
 
 
-    <meta name="description" content="liqimore的个人生活博客,学习计算机科学与技术(CS),这个博客用来记录生活,与技术博客分割开来.">
-<meta name="keywords" content="ricky li, 李祺, liqimore, liqitry">
-<meta property="og:type" content="website">
+    <meta property="og:type" content="website">
 <meta property="og:title" content="about">
 <meta property="og:url" content="https://liqimore.com/about/index.html">
-<meta property="og:site_name" content="Ricky (liqimore)的个人博客">
-<meta property="og:description" content="liqimore的个人生活博客,学习计算机科学与技术(CS),这个博客用来记录生活,与技术博客分割开来.">
+<meta property="og:site_name" content="Hexo">
 <meta property="og:locale" content="zh-cn">
-<meta property="og:updated_time" content="2019-11-26T16:37:42.930Z">
+<meta property="og:updated_time" content="2019-11-27T15:31:16.204Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="about">
-<meta name="twitter:description" content="liqimore的个人生活博客,学习计算机科学与技术(CS),这个博客用来记录生活,与技术博客分割开来.">
 
 
 
@@ -156,26 +152,25 @@
 <div class="comments">
     <h3 class="title is-4">评论</h3>
     
+<div id="valine-thread"></div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
 <script>
-    var disqus_config = function () {
-        this.page.url = 'https://liqimore.com/about/index.html';
-        this.page.identifier = 'about/index.html';
-        
-        this.language = 'zh';
-        
-    };
-    (function() {
-        var d = document, s = d.createElement('script');  
-        s.src = '//' + 'liqimore' + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
+    new Valine({
+        el: '#valine-thread',
+        appId: '0btgRxTXe2G8VEVR2DKlBsWH-gzGzoHsz',
+        appKey: 'bmAxDEu5Mrib7kWVNhGFgcKE',
+        notify: false,
+        verify: false,
+        avatar: '',
+        placeholder: 'Say something...',
+        meta: ['nick', 'mail'],
+        visitor: true,
+        lang: ''
+    })
 </script>
 
-<div id="disqus_thread">
-    
-    <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</div>
+
 </div>
 
     </div>
