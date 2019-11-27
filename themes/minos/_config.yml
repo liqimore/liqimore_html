@@ -44,7 +44,10 @@ share:
 # Comment plugin settings.
 comment:
   type: disqus
-  shortname: liqimore
+  # shortname: liqimore
+  app_id: 0btgRxTXe2G8VEVR2DKlBsWH-gzGzoHsz
+  app_key: bmAxDEu5Mrib7kWVNhGFgcKE
+  placeholder: 
 
 # Other plugins and their settings.
 plugins:
