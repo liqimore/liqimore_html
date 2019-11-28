@@ -35,11 +35,15 @@ share:
 
 # Comment plugin settings.
 comment:
+  type: livere
+  uid: MTAyMC8zMjU5NC85MTU1
+
   # type: disqus
-  type: valine
   # shortname: liqimore
-  app_id: 0btgRxTXe2G8VEVR2DKlBsWH-gzGzoHsz
-  app_key: bmAxDEu5Mrib7kWVNhGFgcKE
+
+  # type: valine
+  # app_id: 0btgRxTXe2G8VEVR2DKlBsWH-gzGzoHsz
+  # app_key: bmAxDEu5Mrib7kWVNhGFgcKE
   placeholder: 
 
 # Other plugins and their settings.
