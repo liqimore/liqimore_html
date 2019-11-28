@@ -44,7 +44,7 @@ comment:
   # type: valine
   # app_id: 0btgRxTXe2G8VEVR2DKlBsWH-gzGzoHsz
   # app_key: bmAxDEu5Mrib7kWVNhGFgcKE
-  placeholder: 
+  # placeholder: 
 
 # Other plugins and their settings.
 plugins:
@@ -53,7 +53,7 @@ plugins:
   gallery: true
   clipboard: true
   google-analytics:
-    tracking_id:
+    tracking_id: UA-128499116-4
 
 # Additional navigation bar links on the right.
 # Links can either be text or icon. The following link is set to be an icon link whose icon
